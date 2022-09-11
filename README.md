@@ -1,2 +1,2 @@
-# goldentrails
+# amazon
 Tour and Travels
